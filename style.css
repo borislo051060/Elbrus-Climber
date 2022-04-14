@@ -1,0 +1,64 @@
+body {
+  background-color: aqua;  
+}
+.box {
+  position: relative;
+  top: 430px;
+  height: auto;
+ }
+img {
+  width: 100%;
+  height: auto;
+}
+#flag {
+  width: 50px;
+  height: auto;
+  position: absolute;
+  right: 56%;
+  top: -1%;
+}
+.marks {
+  width: 40px;
+  height: 40px;
+  border-style: solid;
+  border-width: 4px 0px 0px 0px;
+  border-top-color: red;
+}
+#mark1 {
+  position: absolute;
+  right: 87%;
+  top: 84%; 
+}
+#mark2 {
+  position: absolute;
+  right: 82%;
+  top: 68%; 
+}
+#mark3 {
+  position: absolute;
+  right: 79%;
+  top: 54%; 
+}
+#mark4 {
+  position: absolute;
+  right: 74%;
+  top: 36%; 
+}
+#mark5 {
+  position: absolute;
+  right: 68%;
+  top: 36%; 
+}
+#mark6 {
+  position: absolute;
+  right: 62%;
+  top: 27%; 
+}
+#climb {
+  /* background-color: chartreuse; */
+  width: 50px;
+  height: auto;
+  position: absolute;
+  right: 87%;
+  top: 84%; 
+}
