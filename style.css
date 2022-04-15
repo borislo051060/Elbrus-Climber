@@ -18,41 +18,50 @@ img {
   top: -1%;
 }
 .marks {
-  width: 40px;
-  height: 40px;
-  border-style: solid;
-  border-width: 4px 0px 0px 0px;
-  border-top-color: red;
+  width: 2.5%;
+  height: 1.0%;
 }
 #mark1 {
   position: absolute;
   right: 87%;
   top: 84%; 
+  background-color: blueviolet;
 }
 #mark2 {
   position: absolute;
   right: 82%;
   top: 68%; 
+  background-color: blue;
 }
 #mark3 {
   position: absolute;
   right: 79%;
   top: 54%; 
+  background-color: cyan;
 }
 #mark4 {
   position: absolute;
   right: 74%;
   top: 36%; 
+  background-color: chartreuse;
 }
 #mark5 {
   position: absolute;
   right: 68%;
   top: 36%; 
+  background-color: gold;
 }
 #mark6 {
   position: absolute;
   right: 62%;
   top: 27%; 
+  background-color: orange;
+}
+#mark7 {
+  position: absolute;
+  right: 55%;
+  top: 6%; 
+  background-color: red;
 }
 #climb {
   /* background-color: chartreuse; */
